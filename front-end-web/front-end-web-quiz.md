@@ -154,11 +154,11 @@ Select the best option:
   3
   4
 
-- B. 5 <<<<--- Correct
+- B. 5
   5
   5
   5
-  5
+  5 <<<<--- Correct
 
 - C. 0
   0
@@ -383,8 +383,9 @@ Select the best option:
 - C.
   ![img](images/02.png)
 
-- D. <<<<--- Correct
+- D.
   ![img](images/03.png)
+  <<<<--- Correct
 
 - E. None of the above
 
@@ -608,16 +609,21 @@ div {
 
 - B. <<<<--- Correct
 
-````css
+```css
 div {
   flex-direction: row;
   align-items: center;
 }
-- C. <<<<--- Correct ```css div {
+```
+
+- C. <<<<--- Correct
+
+```css
+div {
   flex-direction: column;
   justify-content: center;
 }
-````
+```
 
 - D.
 
@@ -717,12 +723,14 @@ Select the best option:
 
 #### Q22. Consider the following HTML log.
 
-```json
+````
 POST /api/yo HTTP/1.1
-Content-Type: :large_blue_circle:
+Content-Type:``` :large_blue_circle:
+````
 
 email=joe@exanple.com&message=Yo
-```
+
+````
 
 What is :large_blue_circle:?
 
@@ -743,7 +751,7 @@ You also try:
 ```bash
 $ curl "http://some-unknown-domain-name.com"
 curl: (6) Could not resolve host: some-unknown-domain-name.com
-```
+````
 
 What is one possible reason for this failure?
 
