@@ -1,4 +1,4 @@
-# angel-quiz-questions
+# Angel-quiz-questions
 
 Angel quiz assessment, questions and answers (frontend development ...)
 
@@ -8,7 +8,7 @@ Angel quiz assessment, questions and answers (frontend development ...)
 
 | Angel-quiz-questions                                                                                                 | Status          |
 | -------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Front-End Web](https://github.com/DevHabit/angel-quiz-questions/blob/master/front-end-web/front-end-web-quiz.md)    | No question yet |
+| [Front-End Web](https://github.com/DevHabit/angel-quiz-questions/blob/master/front-end-web/front-end-web-quiz.md)    | with answers    |
 | [Back-End Web](https://github.com/DevHabit/angel-quiz-questions/blob/master/back-end-web/back-end-web-quiz.md)       | No question yet |
 | [Full-stack Web](https://github.com/DevHabit/angel-quiz-questions/blob/master/full-stack-web/full-stack-web-quiz.md) | No question yet |
 | [Android](https://github.com/DevHabit/angel-quiz-questions/blob/master/android/android-quiz.md)                      | No question yet |

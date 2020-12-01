@@ -723,14 +723,10 @@ Select the best option:
 
 #### Q22. Consider the following HTML log.
 
-````
 POST /api/yo HTTP/1.1
-Content-Type:``` :large_blue_circle:
-````
+Content-Type: :large_blue_circle:
 
 email=joe@exanple.com&message=Yo
-
-````
 
 What is :large_blue_circle:?
 
@@ -751,7 +747,7 @@ You also try:
 ```bash
 $ curl "http://some-unknown-domain-name.com"
 curl: (6) Could not resolve host: some-unknown-domain-name.com
-````
+```
 
 What is one possible reason for this failure?
 
