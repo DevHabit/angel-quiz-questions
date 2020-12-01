@@ -723,12 +723,14 @@ Select the best option:
 
 #### Q22. Consider the following HTML log.
 
+```
 POST /api/yo HTTP/1.1
-Content-Type: :large_blue_circle:
+Content-Type: 🔵
 
 email=joe@exanple.com&message=Yo
+```
 
-What is :large_blue_circle:?
+What is 🔵 ?
 
 Select the best option:
 
